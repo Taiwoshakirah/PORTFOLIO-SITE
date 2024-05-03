@@ -19,7 +19,7 @@ app.use(cors())
 app.use("/api/data", (req, res) => {
     res.json(check);
   });
-app.use("/api/data/summary", (req, res) => {
+app.use("/api/summary", (req, res) => {
     res.json(data);
   });
 
