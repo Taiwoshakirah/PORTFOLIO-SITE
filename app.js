@@ -4,6 +4,7 @@ const dotenv = require("dotenv")
 const cors = require("cors")
 // const data = require("./data.json")
 const check = require("./check.json")
+const data = require("./data.json")
 dotenv.config()
 const app = express();
 const port =process.env.PORT || 3000;
@@ -18,6 +19,10 @@ app.use(cors())
 app.use("/api/data", (req, res) => {
     res.json(check);
   });
+app.use("/api/data/summary", (req, res) => {
+    res.json(data);
+  });
+
 
 const start = async () => {
   try {

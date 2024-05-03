@@ -1,7 +1,7 @@
 const dotenv = require("dotenv")
 dotenv.config()
 
-const connectDB = reuire("./src/config/connectDB.js")
+const connectDB = require("./src/config/connectDB.js")
 const data = require("./check.json") 
 
 const populateDBWithTopics = async () => {
