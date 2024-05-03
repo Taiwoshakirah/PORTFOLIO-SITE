@@ -2,25 +2,22 @@ const express = require("express");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv")
 const cors = require("cors")
-// const data = require("./data.json")
 const check = require("./check.json")
 const data = require("./data.json")
 dotenv.config()
 const app = express();
 const port =process.env.PORT || 3000;
 
-// app.get("/api/", (req, res) => {
-//   res.send("Home");
-// });
-// app.get("/api/portfollio", (req, res) => {
-//   res.send("Our Portfollio");
-// });
+
 app.use(cors())
 app.use("/api/data", (req, res) => {
     res.json(check);
   });
 app.use("/api/summary", (req, res) => {
     res.json(data);
+  });
+app.use("/api/contactus", (req, res) => {
+    res.json("message sent");
   });
 
 
