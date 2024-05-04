@@ -19,7 +19,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653677/the5_prn1ha.jpg",
     "month": "January",
     "clickrate":"735",
-    "sellingcost":"$5"
+    "sellingcost":"5",
+    "currency":"$"
     
 
   },
@@ -43,7 +44,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653695/the10_sqmjli.jpg",
     "month": "February",
     "clickrate":"735",
-    "sellingcost":"$10"
+    "sellingcost":"10",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714558586/soberpal_tqehcx.png",
@@ -65,7 +67,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653736/the50_zjkjoy.jpg",
     "month": "March",
     "clickrate":"735",
-    "sellingcost":"$50"
+    "sellingcost":"50",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714558603/kitchendiary_dfbpi8.png",
@@ -87,7 +90,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653716/the60_y7rzom.jpg",
     "month": "April",
     "clickrate":"735",
-    "sellingcost":"$60"
+    "sellingcost":"60",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714558621/streetrate_cpwqfm.png",
@@ -109,7 +113,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653753/the40_q4aebg.jpg",
     "month": "May",
     "clickrate":"735",
-    "sellingcost":"$40"
+    "sellingcost":"40",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714558637/vareena_ledozu.png",
@@ -131,7 +136,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653768/the25_cc0xcu.jpg",
     "month": "June",
     "clickrate":"735",
-    "sellingcost":"$25"
+    "sellingcost":"25",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714559660/descripto_dr0jo2.png",
@@ -153,7 +159,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653784/the55_vmx8iv.jpg",
     "month": "July",
     "clickrate":"735",
-    "sellingcost":"$65"
+    "sellingcost":"65",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714559679/magicbook_erehtf.png",
@@ -175,7 +182,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653802/the45_y5cqie.jpg",
     "month": "August",
     "clickrate":"735",
-    "sellingcost":"$55"
+    "sellingcost":"55",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714559707/applyforme_iroo2q.png",
@@ -197,7 +205,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653821/the65_h0qdk9.jpg",
     "month": "September",
     "clickrate":"735",
-    "sellingcost":"$45"
+    "sellingcost":"45",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714559732/fixit_e2ziuc.png",
@@ -219,7 +228,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653677/the5_prn1ha.jpg",
     "month": "October",
     "clickrate":"735",
-    "sellingcost":"$5"
+    "sellingcost":"5",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714559757/voxclip_igahaa.png",
@@ -241,7 +251,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653677/the5_prn1ha.jpg",
     "month": "November",
     "clickrate":"735",
-    "sellingcost":"$5"
+    "sellingcost":"5",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714559775/devask_tutorg.png",
@@ -263,7 +274,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653677/the5_prn1ha.jpg",
     "month": "December",
     "clickrate":"735",
-    "sellingcost":"$5"
+    "sellingcost":"5",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714559791/catchup_w8x9xa.png",
@@ -285,7 +297,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653677/the5_prn1ha.jpg",
     "month": "January",
     "clickrate":"735",
-    "sellingcost":"$5"
+    "sellingcost":"5",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714559807/certgo_flz6vk.png",
@@ -307,7 +320,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653677/the5_prn1ha.jpg",
     "month": "February",
     "clickrate":"735",
-    "sellingcost":"$5"
+    "sellingcost":"5",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714559837/lovemee_drvkm7.png",
@@ -329,7 +343,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653677/the5_prn1ha.jpg",
     "month": "March",
     "clickrate":"735",
-    "sellingcost":"$5"
+    "sellingcost":"5",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714559862/opspad_eo9qiq.png",
@@ -351,7 +366,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653677/the5_prn1ha.jpg",
     "month": "April",
     "clickrate":"735",
-    "sellingcost":"$5"
+    "sellingcost":"5",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714559878/reconcileAI_kadstf.png",
@@ -373,7 +389,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653677/the5_prn1ha.jpg",
     "month": "May",
     "clickrate":"735",
-    "sellingcost":"$5"
+    "sellingcost":"5",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714559901/TropicalWeather_twmtkj.png",
@@ -395,7 +412,8 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653677/the5_prn1ha.jpg",
     "month": "June",
     "clickrate":"735",
-    "sellingcost":"$5"
+    "sellingcost":"5",
+    "currency":"$"
   },
   {
     "image": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714559923/Headlogo_eq4430.png",
@@ -417,6 +435,7 @@
     "imagesale": "https://res.cloudinary.com/dqmt1ggqu/image/upload/v1714653677/the5_prn1ha.jpg",
     "month": "July",
     "clickrate":"735",
-    "sellingcost":"$5"
+    "sellingcost":"5",
+    "currency":"$"
   }
 ]

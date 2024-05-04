@@ -1,25 +1,22 @@
 const express = require("express");
 const mongoose = require("mongoose");
-const dotenv = require("dotenv")
-const cors = require("cors")
-const check = require("./check.json")
-const data = require("./data.json")
-dotenv.config()
+const dotenv = require("dotenv");
+const cors = require("cors");
+
+dotenv.config();
 const app = express();
-const port =process.env.PORT || 3000;
+const port = process.env.PORT || 3000;
 
+const check = require("./check.json");
+const data = require("./data.json");
 
-app.use(cors())
+app.use(cors());
 app.use("/api/data", (req, res) => {
-    res.json(check);
-  });
+  res.json(check);
+});
 app.use("/api/summary", (req, res) => {
-    res.json(data);
-  });
-app.use("/api/contactus", (req, res) => {
-    res.json("message sent");
-  });
-
+  res.json(data);
+});
 
 const start = async () => {
   try {
