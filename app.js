@@ -7,8 +7,13 @@ dotenv.config();
 const app = express();
 const port = process.env.PORT || 3000;
 
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
 const check = require("./check.json");
 const data = require("./data.json");
+const contactRouter = require("./src/route/contactRouter.js")
+
 
 app.use(cors());
 app.use("/api/data", (req, res) => {
@@ -17,6 +22,8 @@ app.use("/api/data", (req, res) => {
 app.use("/api/summary", (req, res) => {
   res.json(data);
 });
+
+app.use("/api", contactRouter);
 
 const start = async () => {
   try {
